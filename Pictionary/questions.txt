@@ -1,0 +1,12 @@
+image	answer	choices
+0	Dragon Ball	"Dragon Ball,One Piece,Naruto,Hunter X Hunter"
+1	One Piece	"Dragon Ball,One Piece,Naruto,Hunter X Hunter"
+2	Naruto	"Dragon Ball,One Piece,Naruto,Hunter X Hunter"
+3	Puella Magi Madoka Magica	"Puella Magi Madoka Magica,Rurouni Kenshin,Samurai Champloo,Ninja Scroll"
+4	Rurouni Kenshin	"Puella Magi Madoka Magica,Rurouni Kenshin,Samurai Champloo,Ninja Scroll"
+5	Samurai Champloo	"Puella Magi Madoka Magica,Rurouni Kenshin,Samurai Champloo,Ninja Scroll"
+6	Hunter X Hunter	"Dragon Ball,One Piece,Naruto,Hunter X Hunter"
+7	Fullmetal Alchemist	"Fullmetal Alchemist,D. Gray Man,Dragon Ball,One Piece"
+8	Ninja Scroll	"Puella Magi Madoka Magica,Rurouni Kenshin,Samurai Champloo,Ninja Scroll"
+9	Death Note	"Death Note,D. Gray Man,Dragon Ball,One Piece"
+10	D. Gray Man	"Fullmetal Alchemist,D. Gray Man,Dragon Ball,One Piece"
